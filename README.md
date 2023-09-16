@@ -1,3 +1,4 @@
 # T20_DATASET_ANALYSIS
 
-In this we will get the real dataset on T20 world cup and analyse it using PowerBI and update and filter the data using python,pandas.
+In this project we are trying to find the top 10 best cricket team using PowerBI analyticle tool. 
+This is the real time data on which we applied data preprocessing, data cleaning using python and data visualization using PowerBI.
